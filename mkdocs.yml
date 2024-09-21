@@ -1,0 +1,8 @@
+site_name: MKDocs Demo
+site_url: https://andrewk5o.github.io/mkdocs-demo1/
+theme:
+  name: material
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
